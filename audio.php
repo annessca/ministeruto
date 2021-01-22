@@ -63,7 +63,7 @@
                                 </div>
                                 <div class="col-xl-3 col-md-3">
                                     <div class="music_btn">
-                                        <a href="https://utoessienofficial.com/audio/" class="boxed-btn5">More Music</a>
+                                        <a href="<?php the_permalink(); ?>" class="boxed-btn3" download>Download</a>
                                     </div>
                                 </div>
                             </div>
