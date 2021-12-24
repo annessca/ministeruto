@@ -1180,7 +1180,7 @@ h3 {
 .about_area {
   padding-bottom: 0;
   padding-top: 15px;
-  background-image: url(../img/ab-background.jpg);
+  background-image: url(../img/vid-background.jpg);
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
@@ -1821,7 +1821,7 @@ h3 {
 .best_bodys_area {
   padding-bottom: 25px;
   padding-top: 8px;
-  background-image: url(../img/vid-background.jpg);
+  background-image: url(../img/ab-background.jpg );
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
@@ -3251,12 +3251,6 @@ h6 {
 .values {
   font-weight: 700;
   font-size: 20px;
-}
-
-.lone-area {
-	background: #fefcfa;
-	padding-top: 2px;
-	padding-bottom: 2px
 }
 
 .article-area {

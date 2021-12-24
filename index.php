@@ -78,7 +78,8 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-12">
-                <div class="section_title text-center mb-80">
+                <div class="section_title text-center mb-60">
+                    <br>
                     <span>The Ministry in Videos</span>
                 </div>
             </div>
@@ -142,11 +143,6 @@
             </div>
         </div>
     </section>
-</div>
-
-
-
-<div class="lone-area" id="my-next-event">   
     <br>
     <div class="row">
         <div class="col-lg-12">
@@ -155,7 +151,7 @@
             </div>
         </div>
     </div>
-</div> 	
+</div>
 
 <!-- Event Home Start -->
 
