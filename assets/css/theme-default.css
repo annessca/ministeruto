@@ -79,6 +79,7 @@ ul {
 /* line 59, Uto Essien Official Website. Gospel Music Minister (Body)/HTML/scss/theme-default.scss */
 li {
   list-style: none;
+  font-family: 'Georgia', serif;
 }
 
 /* line 62, Uto Essien Official Website. Gospel Music Minister (Body)/HTML/scss/theme-default.scss */
@@ -88,7 +89,14 @@ p {
   line-height: 28px;
   color: #4D4D4D;
   margin-bottom: 13px;
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Georgia', serif;
+}
+
+.col-md-12 {
+  margin-top: 0;
+  margin-bottom: 1rem;
+  font-size: 18px;
+  line-height: 1.8;
 }
 
 /* line 71, Uto Essien Official Website. Gospel Music Minister (Body)/HTML/scss/theme-default.scss */
